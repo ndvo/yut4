@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+	<splash>
+		<string name="second"> no strings yet </string>
+		<string name="first">other</string>
+	</splash>
+	<title>
+		<string name="teste">Back</string>
+		<string name="back">Back</string>
+		<string name="learn">Learn</string>
+		<string name="more">More</string>
+		<string name="play">Play</string>
+		<string name="solo">Solo</string>
+		<string name="two">Two</string>
+	</title>
+	<game>
+		<string name="0"> no strings yet </string>
+	</game>
+
+</resources>

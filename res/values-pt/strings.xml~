@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+	<splash>
+		<string name="0"> é baseado em um </string>
+		<string name="1"> jogo de tabuleiro por </string>
+		<string name="2"> ocastudios </string>
+		<string name="3"> toque para jogar </string>
+	</splash>
+
+	<title>
+		<string name="0"> versão </string>
+		<string name="1"> jogue </string>
+		<string name="2"> aprenda </string>
+		<string name="3"> mais </string>
+		<string name="4"> de um </string>
+		<string name="5"> de dois </string>
+		<string name="6"> voltar </string>
+	</title>
+
+	<more>
+		<string name="0"> você gostaria </string>
+		<string name="1"> de mais jogos? </string>
+	</more>
+	
+	<tutorial>
+		<string name="0"> 1. Seu objetivo </string>
+		<string name="1"> Você deve capturar o rei do oponente, que pode ser um grou ou um faisão. </string>
+		<string name="2"> 2. Suas peças </string>
+		<string name="3"> Suas peças ficam de cabeça para cima e as do oponente, para baixo. Elas possuem a mesma cor. </string>
+		<string name="4"> 3. Movendo </string>
+		<string name="5"> As peças possuem marcas que indicam para onde podem se mover. Elas andam uma casa por vez. </string>
+		<string name="6"> 4. Pulando </string>
+		<string name="7"> As peças podem pular uma peça aliada, nas mesmas direções em que podem andar. </string>
+		<string name="8"> 5. Capturando </string>
+		<string name="9"> Quando você move sua peça para uma casa ocupada por uma peça do oponente, você a captura. </string>
+		<string name="10"> 6. Sua fazenda </string>
+		<string name="11"> Quando você captura uma peça, ela é levada para sua fazenda, na parte de baixo do tabuleiro. </string>
+		<string name="12"> 7. Chamando </string>
+		<string name="13"> Ao invés de mover uma peça, você pode chamar um animal de sua fazenda, colocando-o de volta no tabuleiro. </string>
+		<string name="14"> 8. Zona de promoção </string>
+		<string name="15"> A última fileira de casas no tabuleiro é sua zona de promoção. Você não pode chamar um animal diretamente ali... </string>
+		<string name="16"> 9. Promoção </string>
+		<string name="17"> ...mas se conseguir mover uma peça para lá, ela será promovida, ficando mais poderosa. </string>
+		<string name="18"> 10. Decesso </string>
+		<string name="19"> Se uma peça promovida é capturada, ela volta a seu estado inicial. </string>
+	</tutorial>
+	
+	<main>
+		<string name="0"> de volta</string>
+		<string name="1"> fora de alcance</string>
+		<string name="2"> casa abriga um aliado</string>
+		<string name="3"> não se pode chamar na última fileira</string>
+		<string name="4"> não se pode capturar ao chamar</string>
+		<string name="5"> seu turno</string>
+		<string name="6"> ...aguarde</string>
+		<string name="7"> parabéns!</string>
+		<string name="8"> ah,não...</string>
+		<string name="9"> por favor, aguarde...</string>
+		<string name="10"> esta peça não te pertence</string>
+		<string name="11"> você capturou</string>
+		<string name="12"> você promoveu</string>
+	</main>
+	
+	<basic>
+		<string name="0"> uma carpa</string>
+		<string name="1"> uma anta</string>
+		<string name="2"> um guaxinim</string>
+		<string name="3"> uma raposa</string>
+		<string name="4"> um koi</string>
+		<string name="5"> um baku</string>
+		<string name="6"> um tanuki</string>
+		<string name="7"> um kitsune</string>
+		<string name="8"> um grou</string>
+		<string name="9"> um faisão</string>
+	</basic>
+
+</resources>
